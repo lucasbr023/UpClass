@@ -1,0 +1,70 @@
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\Interfaces\bin\Debug\Entidades.dll
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\Interfaces\bin\Debug\Entidades.pdb
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\Interfaces\obj\Debug\RC-Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\Interfaces\bin\Debug\Entidades.dll
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\Interfaces\bin\Debug\Entidades.pdb
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\Interfaces\obj\Debug\RC-Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\NataliaVitória\Documents\GitHub\rotascommunity\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\NataliaVitória\Documents\GitHub\rotascommunity\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\NataliaVitória\Documents\GitHub\rotascommunity\Interfaces\bin\Debug\Entidades.dll
+C:\Users\NataliaVitória\Documents\GitHub\rotascommunity\Interfaces\bin\Debug\Entidades.pdb
+C:\Users\NataliaVitória\Documents\GitHub\rotascommunity\Interfaces\obj\Debug\RC-Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\NataliaVitória\Documents\GitHub\rotascommunity\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\NataliaVitória\Documents\GitHub\rotascommunity\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\NataliaVitória\Desktop\projetão\lucasbr023-rotascommunity-fb167d6ebef5\lucasbr023-rotascommunity-fb167d6ebef5\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\NataliaVitória\Desktop\projetão\lucasbr023-rotascommunity-fb167d6ebef5\lucasbr023-rotascommunity-fb167d6ebef5\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\NataliaVitória\Desktop\projetão\lucasbr023-rotascommunity-fb167d6ebef5\lucasbr023-rotascommunity-fb167d6ebef5\Interfaces\bin\Debug\Entidades.dll
+C:\Users\NataliaVitória\Desktop\projetão\lucasbr023-rotascommunity-fb167d6ebef5\lucasbr023-rotascommunity-fb167d6ebef5\Interfaces\bin\Debug\Entidades.pdb
+C:\Users\NataliaVitória\Desktop\projetão\lucasbr023-rotascommunity-fb167d6ebef5\lucasbr023-rotascommunity-fb167d6ebef5\Interfaces\obj\Debug\RC-Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\NataliaVitória\Desktop\projetão\lucasbr023-rotascommunity-fb167d6ebef5\lucasbr023-rotascommunity-fb167d6ebef5\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\NataliaVitória\Desktop\projetão\lucasbr023-rotascommunity-fb167d6ebef5\lucasbr023-rotascommunity-fb167d6ebef5\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\Interfaces\bin\Debug\Entidades.dll
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\Interfaces\bin\Debug\Entidades.pdb
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\Interfaces\obj\Debug\RC-Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\Interfaces\obj\Debug\Interfaces.pdb
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\Interfaces\bin\Debug\Interfaces.dll
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\Interfaces\bin\Debug\Interfaces.pdb
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\Interfaces\bin\Debug\Entidades.dll
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\Interfaces\bin\Debug\Entidades.pdb
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\Interfaces\obj\Debug\RC-Interfaces.csprojResolveAssemblyReference.cache
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\Interfaces\obj\Debug\Interfaces.dll
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\NataliaVitória\Desktop\projetão\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\NataliaVitória\Desktop\projetão\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\NataliaVitória\Desktop\projetão\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\Interfaces\bin\Debug\Entidades.dll
+C:\Users\NataliaVitória\Desktop\projetão\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\Interfaces\bin\Debug\Entidades.pdb
+C:\Users\NataliaVitória\Desktop\projetão\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\Interfaces\obj\Debug\RC-Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\NataliaVitória\Desktop\projetão\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\NataliaVitória\Desktop\projetão\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\Interfaces\bin\Debug\Entidades.dll
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\Interfaces\bin\Debug\Entidades.pdb
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\Interfaces\obj\Debug\RC-Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\Interfaces\bin\Debug\Entidades.dll
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\Interfaces\bin\Debug\Entidades.pdb
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\Interfaces\obj\Debug\RC-Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\lmc3\Desktop\Projetos\RotasCommunity\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\lmc3\Desktop\Projetos\RotasCommunity\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\lmc3\Desktop\Projetos\RotasCommunity\Interfaces\bin\Debug\Entidades.dll
+C:\Users\lmc3\Desktop\Projetos\RotasCommunity\Interfaces\bin\Debug\Entidades.pdb
+C:\Users\lmc3\Desktop\Projetos\RotasCommunity\Interfaces\obj\Debug\RC-Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\lmc3\Desktop\Projetos\RotasCommunity\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\lmc3\Desktop\Projetos\RotasCommunity\Interfaces\obj\Debug\Interfaces.pdb

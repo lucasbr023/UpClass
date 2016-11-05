@@ -1,0 +1,5 @@
+C:\Users\lmc3\Desktop\Projetos\UpClass\Entidades\bin\Debug\Entidades.dll
+C:\Users\lmc3\Desktop\Projetos\UpClass\Entidades\bin\Debug\Entidades.pdb
+C:\Users\lmc3\Desktop\Projetos\UpClass\Entidades\obj\Debug\UC-Entidades.csprojResolveAssemblyReference.cache
+C:\Users\lmc3\Desktop\Projetos\UpClass\Entidades\obj\Debug\Entidades.dll
+C:\Users\lmc3\Desktop\Projetos\UpClass\Entidades\obj\Debug\Entidades.pdb

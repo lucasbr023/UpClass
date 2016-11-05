@@ -1,0 +1,7 @@
+C:\Users\lmc3\Desktop\Projetos\UpClass\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\lmc3\Desktop\Projetos\UpClass\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\lmc3\Desktop\Projetos\UpClass\Interfaces\bin\Debug\Entidades.dll
+C:\Users\lmc3\Desktop\Projetos\UpClass\Interfaces\bin\Debug\Entidades.pdb
+C:\Users\lmc3\Desktop\Projetos\UpClass\Interfaces\obj\Debug\UC-Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\lmc3\Desktop\Projetos\UpClass\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\lmc3\Desktop\Projetos\UpClass\Interfaces\obj\Debug\Interfaces.pdb
