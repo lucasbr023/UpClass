@@ -1,0 +1,18 @@
+﻿@{
+    ViewBag.Title = "About";
+    @Html.Hidden("_Sidebar")
+}
+<h2>@ViewBag.Title.</h2>
+<h3>@ViewBag.Message</h3>
+
+<p>Use this area to provide additional information.</p>
+
+
+<script>
+    $(document).ready(function () {
+
+        document.getElementById('partialview').style.display = "none";
+
+    });
+
+</script>

@@ -41,6 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DTO\Postagem\PostagemDTO.cs" />
     <Compile Include="Enums\Turno.cs" />
     <Compile Include="Professor\Professor.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

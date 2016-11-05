@@ -1,0 +1,404 @@
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\RotasCommunity.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\RotasCommunity.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\RotasCommunity.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\RotasCommunity.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\RotasCommunity.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\RotasCommunity.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\RotasCommunity.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\RotasCommunity.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\RotasCommunity.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\RotasCommunity.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\RotasCommunity.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\RotasCommunity.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\RotasCommunity.Tests\bin\Debug\RotasCommunity.Tests.dll.config
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\RotasCommunity.Tests\bin\Debug\RotasCommunity.Tests.dll
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\RotasCommunity.Tests\bin\Debug\RotasCommunity.Tests.pdb
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\RotasCommunity.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\RotasCommunity.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\RotasCommunity.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\RotasCommunity.Tests\bin\Debug\RotasCommunity.dll
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\RotasCommunity.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\RotasCommunity.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\RotasCommunity.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\RotasCommunity.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\RotasCommunity.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\RotasCommunity.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\RotasCommunity.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\RotasCommunity.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\RotasCommunity.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\RotasCommunity.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\RotasCommunity.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\RotasCommunity.Tests\bin\Debug\Owin.dll
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\RotasCommunity.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\RotasCommunity.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\RotasCommunity.Tests\bin\Debug\EntityFramework.dll
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\RotasCommunity.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\RotasCommunity.Tests\bin\Debug\RotasCommunity.pdb
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\RotasCommunity.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\RotasCommunity.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\RotasCommunity.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\RotasCommunity.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\RotasCommunity.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\RotasCommunity.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\RotasCommunity.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\RotasCommunity.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\RotasCommunity.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\RotasCommunity.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\RotasCommunity.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\RotasCommunity.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\RotasCommunity.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\RotasCommunity.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\RotasCommunity.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\RotasCommunity.Tests\bin\Debug\EntityFramework.xml
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\RotasCommunity.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\RotasCommunity.Tests\obj\Debug\RC-RotasCommunity.Tests.csprojResolveAssemblyReference.cache
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\RotasCommunity.Tests\obj\Debug\RotasCommunity.Tests.dll
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\RotasCommunity.Tests\obj\Debug\RotasCommunity.Tests.pdb
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\RotasCommunity.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\RotasCommunity.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\RotasCommunity.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\RotasCommunity.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\RotasCommunity.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\RotasCommunity.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\RotasCommunity.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\RotasCommunity.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\RotasCommunity.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\RotasCommunity.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\RotasCommunity.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\RotasCommunity.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\RotasCommunity.Tests\bin\Debug\RotasCommunity.Tests.dll.config
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\RotasCommunity.Tests\bin\Debug\RotasCommunity.Tests.dll
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\RotasCommunity.Tests\bin\Debug\RotasCommunity.Tests.pdb
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\RotasCommunity.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\RotasCommunity.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\RotasCommunity.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\RotasCommunity.Tests\bin\Debug\RotasCommunity.dll
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\RotasCommunity.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\RotasCommunity.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\RotasCommunity.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\RotasCommunity.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\RotasCommunity.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\RotasCommunity.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\RotasCommunity.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\RotasCommunity.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\RotasCommunity.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\RotasCommunity.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\RotasCommunity.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\RotasCommunity.Tests\bin\Debug\Owin.dll
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\RotasCommunity.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\RotasCommunity.Tests\bin\Debug\Castle.Windsor.dll
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\RotasCommunity.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\RotasCommunity.Tests\bin\Debug\Interfaces.dll
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\RotasCommunity.Tests\bin\Debug\Repositorio.dll
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\RotasCommunity.Tests\bin\Debug\Entidades.dll
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\RotasCommunity.Tests\bin\Debug\AutoMapper.dll
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\RotasCommunity.Tests\bin\Debug\EntityFramework.dll
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\RotasCommunity.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\RotasCommunity.Tests\bin\Debug\Services.dll
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\RotasCommunity.Tests\bin\Debug\Castle.Core.dll
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\RotasCommunity.Tests\bin\Debug\RotasCommunity.pdb
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\RotasCommunity.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\RotasCommunity.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\RotasCommunity.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\RotasCommunity.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\RotasCommunity.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\RotasCommunity.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\RotasCommunity.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\RotasCommunity.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\RotasCommunity.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\RotasCommunity.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\RotasCommunity.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\RotasCommunity.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\RotasCommunity.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\RotasCommunity.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\RotasCommunity.Tests\bin\Debug\Castle.Windsor.xml
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\RotasCommunity.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\RotasCommunity.Tests\bin\Debug\Interfaces.pdb
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\RotasCommunity.Tests\bin\Debug\Repositorio.pdb
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\RotasCommunity.Tests\bin\Debug\Entidades.pdb
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\RotasCommunity.Tests\bin\Debug\AutoMapper.xml
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\RotasCommunity.Tests\bin\Debug\EntityFramework.xml
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\RotasCommunity.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\RotasCommunity.Tests\bin\Debug\Services.pdb
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\RotasCommunity.Tests\bin\Debug\Castle.Core.xml
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\RotasCommunity.Tests\obj\Debug\RC-RotasCommunity.Tests.csprojResolveAssemblyReference.cache
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\RotasCommunity.Tests\obj\Debug\RotasCommunity.Tests.dll
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\RotasCommunity.Tests\obj\Debug\RotasCommunity.Tests.pdb
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\RotasCommunity.Tests.dll.config
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\RotasCommunity.Tests.dll
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\RotasCommunity.Tests.pdb
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\RotasCommunity.dll
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Owin.dll
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Castle.Windsor.dll
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Interfaces.dll
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Repositorio.dll
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Entidades.dll
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\AutoMapper.dll
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\EntityFramework.dll
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Services.dll
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Castle.Core.dll
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\RotasCommunity.pdb
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Castle.Windsor.xml
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Interfaces.pdb
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Repositorio.pdb
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Entidades.pdb
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\AutoMapper.xml
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\EntityFramework.xml
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Services.pdb
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Castle.Core.xml
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\obj\Debug\RC-RotasCommunity.Tests.csprojResolveAssemblyReference.cache
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\obj\Debug\RotasCommunity.Tests.dll
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\obj\Debug\RotasCommunity.Tests.pdb
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\roslyn\csc.exe
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\roslyn\vbc.exe
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\RotasCommunity.Tests.dll.config
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\RotasCommunity.Tests.dll
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\RotasCommunity.Tests.pdb
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Newtonsoft.Json.dll
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\RotasCommunity.dll
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\System.Web.Helpers.dll
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\System.Web.Mvc.dll
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\System.Web.Razor.dll
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\System.Web.WebPages.dll
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Microsoft.Owin.dll
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\System.Web.Optimization.dll
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Microsoft.Owin.Security.dll
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Owin.dll
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Castle.Windsor.dll
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Repositorio.dll
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Entidades.dll
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Interfaces.dll
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\AutoMapper.dll
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\EntityFramework.dll
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Services.dll
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Castle.Core.dll
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\RotasCommunity.pdb
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Newtonsoft.Json.xml
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\System.Web.Helpers.xml
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\System.Web.Mvc.xml
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\System.Web.Razor.xml
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\System.Web.WebPages.xml
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Microsoft.Owin.xml
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\System.Web.Optimization.xml
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Microsoft.Owin.Security.xml
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Castle.Windsor.xml
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Repositorio.pdb
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Entidades.pdb
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Interfaces.pdb
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\AutoMapper.xml
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\EntityFramework.xml
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Services.pdb
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Castle.Core.xml
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\obj\Debug\RC-RotasCommunity.Tests.csprojResolveAssemblyReference.cache
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\obj\Debug\RotasCommunity.Tests.dll
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\obj\Debug\RotasCommunity.Tests.pdb
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\RotasCommunity.Tests.dll.config
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\RotasCommunity.Tests.dll
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\RotasCommunity.Tests.pdb
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\RotasCommunity.dll
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Owin.dll
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Castle.Windsor.dll
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Repositorio.dll
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Interfaces.dll
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Entidades.dll
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\AutoMapper.dll
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\EntityFramework.dll
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Services.dll
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Castle.Core.dll
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\RotasCommunity.pdb
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Castle.Windsor.xml
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Repositorio.pdb
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Interfaces.pdb
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Entidades.pdb
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\AutoMapper.xml
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\EntityFramework.xml
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Services.pdb
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Castle.Core.xml
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\obj\Debug\RC-RotasCommunity.Tests.csprojResolveAssemblyReference.cache
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\obj\Debug\RotasCommunity.Tests.dll
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\obj\Debug\RotasCommunity.Tests.pdb
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\RotasCommunity.Tests.dll.config
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\RotasCommunity.Tests.dll
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\RotasCommunity.Tests.pdb
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\RotasCommunity.dll
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Owin.dll
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Castle.Windsor.dll
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Entidades.dll
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Repositorio.dll
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Interfaces.dll
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\AutoMapper.dll
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\EntityFramework.dll
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Services.dll
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Castle.Core.dll
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\RotasCommunity.pdb
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Castle.Windsor.xml
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Entidades.pdb
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Repositorio.pdb
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Interfaces.pdb
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\AutoMapper.xml
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\EntityFramework.xml
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Services.pdb
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\bin\Debug\Castle.Core.xml
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\obj\Debug\RC-RotasCommunity.Tests.csprojResolveAssemblyReference.cache
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\obj\Debug\RotasCommunity.Tests.dll
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\RotasCommunity.Tests\obj\Debug\RotasCommunity.Tests.pdb

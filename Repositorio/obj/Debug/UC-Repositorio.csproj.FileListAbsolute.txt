@@ -1,0 +1,14 @@
+C:\Users\lmc3\Desktop\Projetos\UpClass\Repositorio\bin\Debug\Repositorio.dll.config
+C:\Users\lmc3\Desktop\Projetos\UpClass\Repositorio\bin\Debug\Repositorio.dll
+C:\Users\lmc3\Desktop\Projetos\UpClass\Repositorio\bin\Debug\Repositorio.pdb
+C:\Users\lmc3\Desktop\Projetos\UpClass\Repositorio\bin\Debug\Entidades.dll
+C:\Users\lmc3\Desktop\Projetos\UpClass\Repositorio\bin\Debug\EntityFramework.dll
+C:\Users\lmc3\Desktop\Projetos\UpClass\Repositorio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lmc3\Desktop\Projetos\UpClass\Repositorio\bin\Debug\Interfaces.dll
+C:\Users\lmc3\Desktop\Projetos\UpClass\Repositorio\bin\Debug\Entidades.pdb
+C:\Users\lmc3\Desktop\Projetos\UpClass\Repositorio\bin\Debug\Interfaces.pdb
+C:\Users\lmc3\Desktop\Projetos\UpClass\Repositorio\bin\Debug\EntityFramework.xml
+C:\Users\lmc3\Desktop\Projetos\UpClass\Repositorio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lmc3\Desktop\Projetos\UpClass\Repositorio\obj\Debug\UC-Repositorio.csprojResolveAssemblyReference.cache
+C:\Users\lmc3\Desktop\Projetos\UpClass\Repositorio\obj\Debug\Repositorio.dll
+C:\Users\lmc3\Desktop\Projetos\UpClass\Repositorio\obj\Debug\Repositorio.pdb

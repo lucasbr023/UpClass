@@ -10,7 +10,7 @@ namespace Interfaces.Service
     {
 
         T Inserir(T entidade);
-        void Deletar(T entidade);
+        void Deletar(int idPostagem);
         void Atualizar(T entidade);
         T Procurar(int? codigo);
         IQueryable<T> BuscarTodos();

@@ -1,0 +1,140 @@
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\Repositorio\bin\Debug\Repositorio.dll.config
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\Repositorio\bin\Debug\Repositorio.dll
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\Repositorio\bin\Debug\Repositorio.pdb
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\Repositorio\bin\Debug\Entidades.dll
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\Repositorio\bin\Debug\EntityFramework.dll
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\Repositorio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\Repositorio\bin\Debug\Interfaces.dll
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\Repositorio\bin\Debug\Entidades.pdb
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\Repositorio\bin\Debug\Interfaces.pdb
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\Repositorio\bin\Debug\EntityFramework.xml
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\Repositorio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\Repositorio\obj\Debug\RC-Repositorio.csprojResolveAssemblyReference.cache
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\Repositorio\obj\Debug\Repositorio.dll
+C:\Users\lmc3\onedrive\documents\visual studio 2015\Projects\RotasCommunity\Repositorio\obj\Debug\Repositorio.pdb
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\Repositorio\bin\Debug\Repositorio.dll.config
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\Repositorio\bin\Debug\Repositorio.dll
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\Repositorio\bin\Debug\Repositorio.pdb
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\Repositorio\bin\Debug\Entidades.dll
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\Repositorio\bin\Debug\EntityFramework.dll
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\Repositorio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\Repositorio\bin\Debug\Interfaces.dll
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\Repositorio\bin\Debug\Entidades.pdb
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\Repositorio\bin\Debug\Interfaces.pdb
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\Repositorio\bin\Debug\EntityFramework.xml
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\Repositorio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\Repositorio\obj\Debug\RC-Repositorio.csprojResolveAssemblyReference.cache
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\Repositorio\obj\Debug\Repositorio.dll
+C:\Users\lmc3\Desktop\Projetão\rotascommunity\Repositorio\obj\Debug\Repositorio.pdb
+C:\Users\NataliaVitória\Documents\GitHub\rotascommunity\Repositorio\bin\Debug\Repositorio.dll.config
+C:\Users\NataliaVitória\Documents\GitHub\rotascommunity\Repositorio\bin\Debug\Repositorio.dll
+C:\Users\NataliaVitória\Documents\GitHub\rotascommunity\Repositorio\bin\Debug\Repositorio.pdb
+C:\Users\NataliaVitória\Documents\GitHub\rotascommunity\Repositorio\bin\Debug\Entidades.dll
+C:\Users\NataliaVitória\Documents\GitHub\rotascommunity\Repositorio\bin\Debug\EntityFramework.dll
+C:\Users\NataliaVitória\Documents\GitHub\rotascommunity\Repositorio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\NataliaVitória\Documents\GitHub\rotascommunity\Repositorio\bin\Debug\Interfaces.dll
+C:\Users\NataliaVitória\Documents\GitHub\rotascommunity\Repositorio\bin\Debug\Entidades.pdb
+C:\Users\NataliaVitória\Documents\GitHub\rotascommunity\Repositorio\bin\Debug\Interfaces.pdb
+C:\Users\NataliaVitória\Documents\GitHub\rotascommunity\Repositorio\bin\Debug\EntityFramework.xml
+C:\Users\NataliaVitória\Documents\GitHub\rotascommunity\Repositorio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\NataliaVitória\Documents\GitHub\rotascommunity\Repositorio\obj\Debug\RC-Repositorio.csprojResolveAssemblyReference.cache
+C:\Users\NataliaVitória\Documents\GitHub\rotascommunity\Repositorio\obj\Debug\Repositorio.dll
+C:\Users\NataliaVitória\Documents\GitHub\rotascommunity\Repositorio\obj\Debug\Repositorio.pdb
+C:\Users\NataliaVitória\Desktop\projetão\lucasbr023-rotascommunity-fb167d6ebef5\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\bin\Debug\Repositorio.dll.config
+C:\Users\NataliaVitória\Desktop\projetão\lucasbr023-rotascommunity-fb167d6ebef5\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\bin\Debug\Repositorio.dll
+C:\Users\NataliaVitória\Desktop\projetão\lucasbr023-rotascommunity-fb167d6ebef5\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\bin\Debug\Repositorio.pdb
+C:\Users\NataliaVitória\Desktop\projetão\lucasbr023-rotascommunity-fb167d6ebef5\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\bin\Debug\Entidades.dll
+C:\Users\NataliaVitória\Desktop\projetão\lucasbr023-rotascommunity-fb167d6ebef5\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\bin\Debug\EntityFramework.dll
+C:\Users\NataliaVitória\Desktop\projetão\lucasbr023-rotascommunity-fb167d6ebef5\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\NataliaVitória\Desktop\projetão\lucasbr023-rotascommunity-fb167d6ebef5\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\bin\Debug\Interfaces.dll
+C:\Users\NataliaVitória\Desktop\projetão\lucasbr023-rotascommunity-fb167d6ebef5\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\bin\Debug\Entidades.pdb
+C:\Users\NataliaVitória\Desktop\projetão\lucasbr023-rotascommunity-fb167d6ebef5\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\bin\Debug\Interfaces.pdb
+C:\Users\NataliaVitória\Desktop\projetão\lucasbr023-rotascommunity-fb167d6ebef5\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\bin\Debug\EntityFramework.xml
+C:\Users\NataliaVitória\Desktop\projetão\lucasbr023-rotascommunity-fb167d6ebef5\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\NataliaVitória\Desktop\projetão\lucasbr023-rotascommunity-fb167d6ebef5\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\obj\Debug\RC-Repositorio.csprojResolveAssemblyReference.cache
+C:\Users\NataliaVitória\Desktop\projetão\lucasbr023-rotascommunity-fb167d6ebef5\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\obj\Debug\Repositorio.dll
+C:\Users\NataliaVitória\Desktop\projetão\lucasbr023-rotascommunity-fb167d6ebef5\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\obj\Debug\Repositorio.pdb
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\bin\Debug\Repositorio.dll.config
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\bin\Debug\Repositorio.dll
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\bin\Debug\Repositorio.pdb
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\bin\Debug\Entidades.dll
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\bin\Debug\EntityFramework.dll
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\bin\Debug\Interfaces.dll
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\bin\Debug\Entidades.pdb
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\bin\Debug\Interfaces.pdb
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\bin\Debug\EntityFramework.xml
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\obj\Debug\RC-Repositorio.csprojResolveAssemblyReference.cache
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\obj\Debug\Repositorio.dll
+C:\Users\lmc3\Desktop\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\obj\Debug\Repositorio.pdb
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\bin\Debug\Repositorio.dll.config
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\bin\Debug\Repositorio.dll
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\bin\Debug\Repositorio.pdb
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\bin\Debug\Entidades.dll
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\bin\Debug\EntityFramework.dll
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\bin\Debug\EntityFramework.SqlServer.dll
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\bin\Debug\Interfaces.dll
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\bin\Debug\Entidades.pdb
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\bin\Debug\Interfaces.pdb
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\bin\Debug\EntityFramework.xml
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\bin\Debug\EntityFramework.SqlServer.xml
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\obj\Debug\RC-Repositorio.csprojResolveAssemblyReference.cache
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\obj\Debug\Repositorio.dll
+E:\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\obj\Debug\Repositorio.pdb
+C:\Users\NataliaVitória\Desktop\projetão\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\bin\Debug\Repositorio.dll.config
+C:\Users\NataliaVitória\Desktop\projetão\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\bin\Debug\Repositorio.dll
+C:\Users\NataliaVitória\Desktop\projetão\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\bin\Debug\Repositorio.pdb
+C:\Users\NataliaVitória\Desktop\projetão\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\bin\Debug\Entidades.dll
+C:\Users\NataliaVitória\Desktop\projetão\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\bin\Debug\EntityFramework.dll
+C:\Users\NataliaVitória\Desktop\projetão\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\NataliaVitória\Desktop\projetão\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\bin\Debug\Interfaces.dll
+C:\Users\NataliaVitória\Desktop\projetão\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\bin\Debug\Entidades.pdb
+C:\Users\NataliaVitória\Desktop\projetão\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\bin\Debug\Interfaces.pdb
+C:\Users\NataliaVitória\Desktop\projetão\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\bin\Debug\EntityFramework.xml
+C:\Users\NataliaVitória\Desktop\projetão\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\NataliaVitória\Desktop\projetão\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\obj\Debug\RC-Repositorio.csprojResolveAssemblyReference.cache
+C:\Users\NataliaVitória\Desktop\projetão\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\obj\Debug\Repositorio.dll
+C:\Users\NataliaVitória\Desktop\projetão\rotasCommunity\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\obj\Debug\Repositorio.pdb
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\bin\Debug\Repositorio.dll.config
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\bin\Debug\Repositorio.dll
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\bin\Debug\Repositorio.pdb
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\bin\Debug\Entidades.dll
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\bin\Debug\EntityFramework.dll
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\bin\Debug\Interfaces.dll
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\bin\Debug\Entidades.pdb
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\bin\Debug\Interfaces.pdb
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\bin\Debug\EntityFramework.xml
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\obj\Debug\RC-Repositorio.csprojResolveAssemblyReference.cache
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\obj\Debug\Repositorio.dll
+C:\Users\lmc3\Desktop\Projetão\rrotascommunity-29-11\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\obj\Debug\Repositorio.pdb
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\bin\Debug\Repositorio.dll.config
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\bin\Debug\Repositorio.dll
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\bin\Debug\Repositorio.pdb
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\bin\Debug\Entidades.dll
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\bin\Debug\EntityFramework.dll
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\bin\Debug\Interfaces.dll
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\bin\Debug\Entidades.pdb
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\bin\Debug\Interfaces.pdb
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\bin\Debug\EntityFramework.xml
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\obj\Debug\RC-Repositorio.csprojResolveAssemblyReference.cache
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\obj\Debug\Repositorio.dll
+C:\Users\NataliaVitória\Documents\Projetão (1)\Projetão\rrotascommunity-05-12\lucasbr023-rotascommunity-fb167d6ebef5\Repositorio\obj\Debug\Repositorio.pdb
+C:\Users\lmc3\Desktop\Projetos\RotasCommunity\Repositorio\bin\Debug\Repositorio.dll.config
+C:\Users\lmc3\Desktop\Projetos\RotasCommunity\Repositorio\bin\Debug\Repositorio.dll
+C:\Users\lmc3\Desktop\Projetos\RotasCommunity\Repositorio\bin\Debug\Repositorio.pdb
+C:\Users\lmc3\Desktop\Projetos\RotasCommunity\Repositorio\bin\Debug\Entidades.dll
+C:\Users\lmc3\Desktop\Projetos\RotasCommunity\Repositorio\bin\Debug\EntityFramework.dll
+C:\Users\lmc3\Desktop\Projetos\RotasCommunity\Repositorio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lmc3\Desktop\Projetos\RotasCommunity\Repositorio\bin\Debug\Interfaces.dll
+C:\Users\lmc3\Desktop\Projetos\RotasCommunity\Repositorio\bin\Debug\Entidades.pdb
+C:\Users\lmc3\Desktop\Projetos\RotasCommunity\Repositorio\bin\Debug\Interfaces.pdb
+C:\Users\lmc3\Desktop\Projetos\RotasCommunity\Repositorio\bin\Debug\EntityFramework.xml
+C:\Users\lmc3\Desktop\Projetos\RotasCommunity\Repositorio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lmc3\Desktop\Projetos\RotasCommunity\Repositorio\obj\Debug\RC-Repositorio.csprojResolveAssemblyReference.cache
+C:\Users\lmc3\Desktop\Projetos\RotasCommunity\Repositorio\obj\Debug\Repositorio.dll
+C:\Users\lmc3\Desktop\Projetos\RotasCommunity\Repositorio\obj\Debug\Repositorio.pdb

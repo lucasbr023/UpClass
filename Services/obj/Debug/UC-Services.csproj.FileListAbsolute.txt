@@ -1,0 +1,9 @@
+C:\Users\lmc3\Desktop\Projetos\UpClass\Services\bin\Debug\Services.dll
+C:\Users\lmc3\Desktop\Projetos\UpClass\Services\bin\Debug\Services.pdb
+C:\Users\lmc3\Desktop\Projetos\UpClass\Services\bin\Debug\Entidades.dll
+C:\Users\lmc3\Desktop\Projetos\UpClass\Services\bin\Debug\Interfaces.dll
+C:\Users\lmc3\Desktop\Projetos\UpClass\Services\bin\Debug\Entidades.pdb
+C:\Users\lmc3\Desktop\Projetos\UpClass\Services\bin\Debug\Interfaces.pdb
+C:\Users\lmc3\Desktop\Projetos\UpClass\Services\obj\Debug\UC-Services.csprojResolveAssemblyReference.cache
+C:\Users\lmc3\Desktop\Projetos\UpClass\Services\obj\Debug\Services.dll
+C:\Users\lmc3\Desktop\Projetos\UpClass\Services\obj\Debug\Services.pdb

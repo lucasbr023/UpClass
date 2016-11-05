@@ -1,0 +1,64 @@
+﻿@model UpClass.ViewModels.PostagemModel
+
+<div class="form-group">
+    <div class="col-md-3">
+        @Html.LabelFor(m => m.Mensagem)
+        @Html.TextAreaFor(m => m.Mensagem, new {@id = "idMensagem", @rows = 3})
+        <a id="adicionarMensagem">
+            Adicionar
+            <span class="glyphicon glyphicon-plus" aria-hidden="true"></span>
+        </a>
+    </div>
+    <div>
+        
+    </div>
+</div>
+<div class="col-md-6">
+    <div>
+        Postagens
+    </div>
+    <table border="1" id="tabelaPostagens">
+        @foreach (var item in Model.Postagens)
+        {
+            <tr id="@item.PostagemId">
+                <td>@item.Mensagem</td>
+                <td>
+                    <a id="deletarMensagemTeste" onclick="deletarMensagem(@item.PostagemId)">
+                        <span class="glyphicon glyphicon-trash" aria-hidden="true"></span>
+                    </a>
+                </td>
+            </tr>
+        }
+    </table>
+</div>
+<script>
+    $(document).ready(function() {
+        initEvents();
+    });
+
+    function initEvents() {
+        $('#adicionarMensagem').click(function() {
+            var url = '@Url.Action("SalvarMensagem")?mensagem=' + $("#idMensagem").val();
+            $.ajax({
+                url: url,
+                type: "POST",
+                success: function(data) {
+                    $("#tabelaPostagens").find('tbody').prepend("<tr><td>" + data + "</td></tr>");
+                    $("#idMensagem").val("");
+                }
+            });
+        });
+    }
+
+    function deletarMensagem(idPostagem) {
+        var url = '@Url.Action("ExcluirPostagem")?idPostagem=' + idPostagem;
+        $.ajax({
+            url: url,
+            type: "POST",
+            success: function (data) {
+                $('table#tabelaPostagens tr#'+ idPostagem).remove();
+            }
+        });
+        console.log(idPostagem);
+    }
+</script>
